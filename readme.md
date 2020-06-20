@@ -6,6 +6,6 @@
     Sou apaixonado pelo mundo da programação e sempre estive envolvido em projetos "web" desdos meus 15 anos.
 
 ### Observações:
-  - Acesso ao painel do Wordpress: Login: admin | Senha: weve
+  - Acesso ao painel do Wordpress: Login: weve | Senha: admin
   - Ao configurar o Wordpress, o mesmo foi instalado no host local "localhost"
   - O banco de dados se encontra disponível no arquivo: "banco.sql" na raiz do projeto.

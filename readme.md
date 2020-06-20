@@ -9,3 +9,7 @@
   - Acesso ao painel do Wordpress: Login: weve | Senha: admin
   - Ao configurar o Wordpress, o mesmo foi instalado no host local "localhost"
   - O banco de dados se encontra disponível no arquivo: "banco.sql" na raiz do projeto.
+
+### Contato:
+  - E-mail: weversonfds@live.com
+  - Telefone/Whatsapp: (34) 99192-4132

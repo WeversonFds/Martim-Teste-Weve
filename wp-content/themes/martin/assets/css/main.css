@@ -45,7 +45,7 @@ section{
 }
 .bg_azul
 {
-    background:url('/wp-includes/images/martim/azul.png');
+    background:url('/wp-content/themes/martin/assets/img/azul.png');
     border-radius:20px;
 }
 h2.se2
@@ -173,14 +173,14 @@ span{
 }
 @media (min-width: 601px) {
     .p1 {
-        background-image: url('/wp-includes/images/martim/retan44.png');        
+        background-image: url('/wp-content/themes/martin/assets/img/retan44.png');        
         width: 90% !important;
     }
   }
   
   @media (max-width: 600px) {
     .p1 {      
-        background-image: url('/wp-includes/images/martim/retan44_mobile.png');
+        background-image: url('/wp-content/themes/martin/assets/img/retan44_mobile.png');
         width: 100% !important;
     }
   }
@@ -192,14 +192,14 @@ span{
 
 @media (min-width: 601px) {
     .p2 {
-        background-image: url('/wp-includes/images/martim/retangulo_azul.png');        
+        background-image: url('/wp-content/themes/martin/assets/img/retangulo_azul.png');        
         width: 90% !important;
     }
   }
   
   @media (max-width: 600px) {
     .p2 {      
-        background-image: url('/wp-includes/images/martim/retangulo_azul_mobile.png');
+        background-image: url('/wp-content/themes/martin/assets/img/retangulo_azul_mobile.png');
         width: 100% !important;
     }
   }

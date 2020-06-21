@@ -14,7 +14,7 @@
                   </div>
                </div>
                <div class="col-md-6 col-12 order-1 order-md-2">
-                  <img src="/wp-includes/images/martim/large-Header_3d_3 1.png" class="img-fluid">
+                  <img src="/wp-content/themes/martin/assets/img/large-Header_3d_3 1.png" class="img-fluid">
                </div>
             </div>
             <div class="row mt-2">
@@ -45,7 +45,7 @@
                   <h2 class="se2 pt-3 pl-md-5">Assuma agora o </br><b>controle dos gastos</b></br> variáveis da sua empresa</h2>
                   <div class="ml-md-5">
                   <p>O BPP Corp é uma solução única para a administração de gastos corporativos que conta com uma conta digital empresarial grátis, cartões VISA pré-pagos para controle total das despesas e um aplicativo sem custos adicionais para tornar seu controle financeiro mais simples e prático!</p>
-                  <p class="d-md-none d-block upper cor_azul"><b>Peça já a sua proposta </b><img src="/wp-includes/images/martim/vector2.png?dasa" class="ml-1"></p>
+                  <p class="d-md-none d-block upper cor_azul"><b>Peça já a sua proposta </b><img src="/wp-content/themes/martin/assets/img/vector2.png?dasa" class="ml-1"></p>
                 </div>
                </div>
             </div>
@@ -61,12 +61,12 @@
                   <button type="button" class="d-none d-md-block btn btn-primary b2"><b>Peça já a sua proposta</b></button>
                   <div class="d-block d-md-none">
                       <div class="col-md-12">
-                        <p class="text-white upper"><b>Peça já a sua proposta</b> <img src="/wp-includes/images/martim/vector.png?dasa" class="ml-1"></p>
+                        <p class="text-white upper"><b>Peça já a sua proposta</b> <img src="/wp-content/themes/martin/assets/img/vector.png?dasa" class="ml-1"></p>
                     </div>
                   </div>
                </div>
                <div class="col-md-5 col-12  mt-n0 mt-md-n5 d-flex align-items-end flex-column align-self-end">
-                  <img src="/wp-includes/images/martim/homem.png" class="img-fluid" style="margin-top:-10vh;">
+                  <img src="/wp-content/themes/martin/assets/img/homem.png" class="img-fluid" style="margin-top:-10vh;">
                </div>
             </div>
          </div>
@@ -84,7 +84,7 @@
             <div class="row d-none d-md-flex mt-5">
                <div class="col-md-4">
                   <div class="card pc">
-                     <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-includes/images/martim/1.png?a"></div>
+                     <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-content/themes/martin/assets/img/1.png?a"></div>
                      <div class="card-body">
                         <h5 class="card-title"><b>Mais rapidez na gestão das suas despesas</b></h5>
                         <p class="card-text">Para que seu negócio cresça de maneira inteligente e rápida, substitua os processos demorados de reembolsos, aprovações, criação de relatórios e etc. por uma plataforma que te oferece tudo isso de forma rápida e digital.</p>
@@ -93,7 +93,7 @@
                </div>
                <div class="col-md-4">
                   <div class="card pc">
-                     <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-includes/images/martim/2.png?a"></div>
+                     <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-content/themes/martin/assets/img/2.png?a"></div>
                      <div class="card-body">
                         <h5 class="card-title"><b>Os relatórios que você precisa em um único lugar</b></h5>
                         <p class="card-text">Encontre relatórios detalhados sobre as utilizações de cada cartão corporativo cadastrado em sua equipe. Confira o saldo de cada cartão, redistribua valores, faça transferências instantâneas e não perca tempo com formulários e planilhas.</p>
@@ -102,7 +102,7 @@
                </div>
                <div class="col-md-4">
                   <div class="card pc">
-                     <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-includes/images/martim/3.png?aaa"></div>
+                     <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-content/themes/martin/assets/img/3.png?aaa"></div>
                      <div class="card-body">
                         <h5 class="card-title"><b>Organize todos os seus comprovantes </b></h5>
                         <p class="card-text">Recebendo os comprovantes de gastos de seus colaboradores através da plataforma, você não precisa mais guardar comprovantes e notas fiscais em lugar nenhum. Os gastos podem ser classificados por tipo ou por projeto, da forma que você precisar.</p>
@@ -113,7 +113,7 @@
             <div class="row d-none d-md-flex mt-5">
                <div class="col-md-4">
                   <div class="card pc">
-                     <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-includes/images/martim/4.png?a" ></div>
+                     <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-content/themes/martin/assets/img/4.png?a" ></div>
                      <div class="card-body">
                         <h5 class="card-title"><b>Apresente suas despesas com um só clique</b></h5>
                         <p class="card-text">Enviar seus comprovantes é mais simples do que você imagina. Basta que o colaborador tire uma foto do cupom fiscal com seu smartphone através do aplicativo BPP Card. O gestor das despesas pode aprovar ou reprovar aquele gasto através do App.</p>
@@ -122,7 +122,7 @@
                </div>
                <div class="col-md-4">
                   <div class="card pc">
-                     <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-includes/images/martim/5.png?a" ></div>
+                     <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-content/themes/martin/assets/img/5.png?a" ></div>
                      <div class="card-body">
                         <h5 class="card-title"><b>Controle seus gastos com cartões pré-pagos VISA</b></h5>
                         <p class="card-text">Os cartões pré-pago BPP Corp são fáceis de controlar: o colaborador só gasta o que a empresa disponibiliza para compras online ou em lojas físicas. Conte com cartões VISA aceitos em mais de 30 milhões de estabelecimentos no mundo todo, incluindo sites e aplicativos!</p>
@@ -131,7 +131,7 @@
                </div>
                <div class="col-md-4">
                   <div class="card pc">
-                     <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-includes/images/martim/6.png?aaa" ></div>
+                     <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-content/themes/martin/assets/img/6.png?aaa" ></div>
                      <div class="card-body">
                         <h5 class="card-title"><b>Conta digital gratuita e exclusiva para sua empresa</b></h5>
                         <p class="card-text">Oferecemos uma conta digital gratuita especialmente para gerenciar despesas. Transfira o saldo de sua conta para os cartões de maneira instantânea, sempre livre de taxas de manutenção ou de juros.</p>
@@ -144,7 +144,7 @@
                   <div class="row">
                      <div class="col-12">
                         <div class="card cm">
-                           <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-includes/images/martim/1.png?aaa" ></div>
+                           <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-content/themes/martin/assets/img/1.png?aaa" ></div>
                            <div class="card-body">
                               <h5 class="card-title"><b>Mais rapidez na gestão das suas despesas</h5></b>
                               <p class="card-text">Para que seu negócio cresça de maneira inteligente e rápida, substitua os processos demorados de reembolsos, aprovações, criação de relatórios e etc. por uma plataforma que te oferece tudo isso de forma rápida e digital.</p>
@@ -157,7 +157,7 @@
                   <div class="row">
                      <div class="col-12">
                         <div class="card cm">
-                           <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-includes/images/martim/2.png?aaa" ></div>
+                           <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-content/themes/martin/assets/img/2.png?aaa" ></div>
                            <div class="card-body">
                               <h5 class="card-title"><b>Os relatórios que você precisa em um único lugar</h5></b>
                               <p class="card-text">Encontre relatórios detalhados sobre as utilizações de cada cartão corporativo cadastrado em sua equipe. Confira o saldo de cada cartão, redistribua valores, faça transferências instantâneas e não perca tempo com formulários e planilhas.</p>
@@ -170,7 +170,7 @@
                   <div class="row">
                      <div class="col-12">
                         <div class="card cm">
-                           <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-includes/images/martim/3.png?aaa" ></div>
+                           <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-content/themes/martin/assets/img/3.png?aaa" ></div>
                            <div class="card-body">
                               <h5 class="card-title"><b>Organize todos os seus comprovantes</h5></b>
                               <p class="card-text">Recebendo os comprovantes de gastos de seus colaboradores através da plataforma, você não precisa mais guardar comprovantes e notas fiscais em lugar nenhum. Os gastos podem ser classificados por tipo ou por projeto, da forma que você precisar.</p>
@@ -183,7 +183,7 @@
                   <div class="row">
                      <div class="col-12">
                         <div class="card cm">
-                           <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-includes/images/martim/4.png?aaa" ></div>
+                           <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-content/themes/martin/assets/img/4.png?aaa" ></div>
                            <div class="card-body">
                               <h5 class="card-title"><b>Apresente suas despesas com um só clique</h5></b>
                               <p class="card-text">Enviar seus comprovantes é mais simples do que você imagina. Basta que o colaborador tire uma foto do cupom fiscal com seu smartphone através do aplicativo BPP Card. O gestor das despesas pode aprovar ou reprovar aquele gasto através do App</p>
@@ -196,7 +196,7 @@
                   <div class="row">
                      <div class="col-12">
                         <div class="card cm">
-                           <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-includes/images/martim/5.png?aaa" ></div>
+                           <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-content/themes/martin/assets/img/5.png?aaa" ></div>
                            <div class="card-body">
                               <h5 class="card-title"><b>Controle seus gastos com cartões pré-pagos VISA</h5></b>
                               <p class="card-text">Os cartões pré-pago BPP Corp são fáceis de controlar: o colaborador só gasta o que a empresa disponibiliza para compras online ou em lojas físicas. Conte com cartões VISA aceitos em mais de 30 milhões de estabelecimentos no mundo todo, incluindo sites e aplicativos!</p>
@@ -209,7 +209,7 @@
                   <div class="row">
                      <div class="col-12">
                         <div class="card cm">
-                           <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-includes/images/martim/6.png?aaa" ></div>
+                           <div class="d-flex justify-content-center"><img class="card-img-top" src="/wp-content/themes/martin/assets/img/6.png?aaa" ></div>
                            <div class="card-body">
                               <h5 class="card-title"><b>Conta digital gratuita e exclusiva para sua empresa</h5></b>
                               <p class="card-text">Oferecemos uma conta digital gratuita especialmente para gerenciar despesas. Transfira o saldo de sua conta para os cartões de maneira instantânea, sempre livre de taxas de manutenção ou de juros.</p>
@@ -228,18 +228,18 @@
                <div class="col-md-6 col-12 order-2 order-md-1">
                   <div class="row">
                      <div class="col box-marcas d-flex align-items-center justify-content-center">
-                        <img class="card-img-top" src="/wp-includes/images/martim/bk.png?aaa" >
+                        <img class="card-img-top" src="/wp-content/themes/martin/assets/img/bk.png?aaa" >
                      </div>
                      <div class="col box-marcas d-flex align-items-center justify-content-center">
-                           <img class="card-img-top" src="/wp-includes/images/martim/boti.png?aaa" >
+                           <img class="card-img-top" src="/wp-content/themes/martin/assets/img/boti.png?aaa" >
                      </div>
                   </div>
                   <div class="row">
                      <div class="col box-marcas d-flex align-items-center justify-content-center">
-                        <img class="card-img-top" src="/wp-includes/images/martim/cacau.png?aaa" >
+                        <img class="card-img-top" src="/wp-content/themes/martin/assets/img/cacau.png?aaa" >
                      </div>
                      <div class="col box-marcas d-flex align-items-center justify-content-center">
-                        <img class="card-img-top" src="/wp-includes/images/martim/pague.png?aaa" >
+                        <img class="card-img-top" src="/wp-content/themes/martin/assets/img/pague.png?aaa" >
                      </div>
                   </div>                  
                </div>
@@ -262,7 +262,7 @@
             <div class="col-md-6 col-12">
                <div class="row">
                   <div class="col-12 d-flex justify-content-center">
-                     <img src="/wp-includes/images/martim/din.png" class="img-fluid">
+                     <img src="/wp-content/themes/martin/assets/img/din.png" class="img-fluid">
                   </div>
                   <div class="col-12">
                      <h2 style="text-align: center;color: #84888C;">Dinheiro em papel</h2>
@@ -281,7 +281,7 @@
                </hr>
                <div class="row">
                   <div class="col-12 d-flex justify-content-center">
-                     <img src="/wp-includes/images/martim/b.png" class="img-fluid">
+                     <img src="/wp-content/themes/martin/assets/img/b.png" class="img-fluid">
                   </div>
                   <div class="col-12">
                      <h2 class="bbc"style="text-align: center;"> <b>BPP Corp</b></h2>
@@ -320,7 +320,7 @@
 					foreach ($postslist as $post) :  setup_postdata($post); ?> 
                     <div class="col-md-4 mb-sm-0 mb-4 d-flex justify-content-center">
                         <div class="card text-white">
-                            <img class="card-img" src="/wp-includes/images/martim/foto.png">
+                            <img class="card-img" src="/wp-content/themes/martin/assets/img/foto.png">
                             <div class="card-img-overlay d-flex align-items-end">
                             <p class="card-text text-white">	<?php the_title(); ?>
   </p>
@@ -336,13 +336,13 @@
           <div class="container">
               <div class="row fim">
                   <div class="col-md-6">
-                  <h2 style="color: #303D63;">Essa página foi útil?</h2>
+                  <h2 style="color: #303D63;">Essa página foi útil2?</h2>
                 </div>
                 <div class="col-md-6">
-                    <img src="/wp-includes/images/martim/indifferent 1.png">
-                    <img  src="/wp-includes/images/martim/sad1.png">
-                    <img  src="/wp-includes/images/martim/hap1.png" >
-                    <img  src="/wp-includes/images/martim/hap2.png">
+                    <img src="/wp-content/themes/martin/assets/img/indifferent 1.png">
+                    <img  src="/wp-content/themes/martin/assets/img/sad1.png">
+                    <img  src="/wp-content/themes/martin/assets/img/hap1.png" >
+                    <img  src="/wp-content/themes/martin/assets/img/hap2.png">
                 </div>                
               </div>
       </footer>

@@ -14,6 +14,8 @@
 		wp_enqueue_script('flick_js', get_stylesheet_directory_uri(). '/assets/js/flickity.pkgd.min.js', '','',true);
 		
 	}
+	add_theme_support( 'post-thumbnails' );
+	set_post_thumbnail_size( 300, 300);
 	add_action('wp_enqueue_scripts', 'striped_wp_styles');
 	add_theme_support('title-tag');
 ?>

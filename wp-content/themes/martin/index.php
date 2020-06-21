@@ -315,12 +315,14 @@
               </div>
                   <div class='row'>
 					<?php
-					$args = array( 'numberposts' => 3, 'order'=> 'ASC', 'orderby' => 'title' );
+					$args = array( 'numberposts' => 3, 'order'=> 'DESC');
 					$postslist = get_posts( $args );
-					foreach ($postslist as $post) :  setup_postdata($post); ?> 
+               foreach ($postslist as $post) :
+                  $featured_img_url = get_the_post_thumbnail_url(get_the_ID(),'full');
+               ?> 
                     <div class="col-md-4 mb-sm-0 mb-4 d-flex justify-content-center">
                         <div class="card text-white">
-                            <img class="card-img" src="/wp-content/themes/martin/assets/img/foto.png">
+                            <img class="card-img" src="<?=$featured_img_url?>">
                             <div class="card-img-overlay d-flex align-items-end">
                             <p class="card-text text-white">	<?php the_title(); ?>
   </p>

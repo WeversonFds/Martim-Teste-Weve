@@ -336,7 +336,7 @@
           <div class="container">
               <div class="row fim">
                   <div class="col-md-6">
-                  <h2 style="color: #303D63;">Essa página foi útil2?</h2>
+                  <h2 style="color: #303D63;">Essa página foi útil?</h2>
                 </div>
                 <div class="col-md-6">
                     <img src="/wp-content/themes/martin/assets/img/indifferent 1.png">

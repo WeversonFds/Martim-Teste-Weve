@@ -320,9 +320,9 @@
                foreach ($postslist as $post) :
                   $featured_img_url = get_the_post_thumbnail_url(get_the_ID(),'full');
                ?> 
-                    <div class="col-md-4 mb-sm-0 mb-4 d-flex justify-content-center">
+                    <div class="col-md-4 mb-sm-0 mb-4 mt-1 d-flex justify-content-center">
                         <div class="card text-white">
-                            <img class="card-img" src="<?=$featured_img_url?>">
+                            <img class="card-img img_post" src="<?=$featured_img_url?>">
                             <div class="card-img-overlay d-flex align-items-end">
                             <p class="card-text text-white">	<?php the_title(); ?>
   </p>
